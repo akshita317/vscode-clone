@@ -1,0 +1,40 @@
+.top-Link{
+     color: gray;
+     cursor: pointer;
+     padding-left: 10px;
+}
+.hero-text{
+    color: #c3d0e5;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: 45px;
+    max-width: 1000px;
+    padding: 30px;
+    margin-left: 250px;
+  
+    }
+    .videp{
+        border-radius: 12px;
+            display: flex;
+             justify-content: center;
+            align-items: center;
+    }
+.button{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 100%;
+    padding: 8px 16px;
+    border-radius: 4px;
+    background-color: #0078d4;
+}
+.sre{
+    background: var(--search-input-background);
+    border: 1px solid var(--search-input-border);
+    padding: 5px 12px 5px 36px;
+    height: unset;
+    border-radius: 4px;
+    color: #9ba3b4;
+}
